@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "915648108683",
+    "firebase_url": "https://mymanhwa-902cd.firebaseio.com",
+    "project_id": "mymanhwa-902cd",
+    "storage_bucket": "mymanhwa-902cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915648108683:android:0446dd8fa715674b9e5c8e",
+        "android_client_info": {
+          "package_name": "com.smart.app.mymanhwa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915648108683-b8cupte910ijhn6hc0uni0e31e99sv0t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smart.app.mymanhwa",
+            "certificate_hash": "bd9a3623a718290de52ae6d7ca6fb9c33a840ae3"
+          }
+        },
+        {
+          "client_id": "915648108683-6vq1jv76agl1ci4523t8f5fbebod016f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzwqo0nuJlbwG5AN2xCeGlRJdrfm1NgfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915648108683-6vq1jv76agl1ci4523t8f5fbebod016f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyManhwa</string>
+    <string name="title_logIn">Inicio de Sesión</string>
+    <string name="login_with_email">Iniciar sesión con email</string>
+    <string name="login_with_facebook">Iniciar sesión con Facebook</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
